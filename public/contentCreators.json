@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "description": "Creative content creator specializing in video production.",
+      "languages": ["English", "Hindi"],
+      "education": "BA in Media",
+      "specialization": "Video Production",
+      "socialMedia": {
+        "twitter": "https://twitter.com/johndoe",
+        "instagram": "https://instagram.com/johndoe"
+      },
+      "image": "/images/video.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "description": "Expert in digital marketing and social media content.",
+      "languages": ["English", "Spanish"],
+      "education": "MA in Marketing",
+      "specialization": "Digital Marketing",
+      "socialMedia": {
+        "twitter": "https://twitter.com/janesmith",
+        "instagram": "https://instagram.com/janesmith"
+      },
+      "image": "/images/digital (1).jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "description": "Professional photographer with a passion for storytelling.",
+      "languages": ["English", "French"],
+      "education": "BFA in Photography",
+      "specialization": "Photography",
+      "socialMedia": {
+        "twitter": "https://twitter.com/alicejohnson",
+        "instagram": "https://instagram.com/alicejohnson"
+      },
+      "image": "/images/photo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Madhu Kunchala",
+      "email": "madhu.kunchala@example.com",
+      "description": "Creative content creator specializing in video production.",
+      "languages": ["English", "Hindi"],
+      "education": "BA in Media",
+      "specialization": "Video Production",
+      "socialMedia": {
+        "twitter": "https://twitter.com/madhu",
+        "instagram": "https://instagram.com/madhu"
+      },
+      "image": "/images/video-production.jpg"
+    }
+]
+    

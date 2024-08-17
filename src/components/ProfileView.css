@@ -1,0 +1,37 @@
+/* Profile View styles */
+.profile-view {
+    background-color: #fafafa; /* Background color */
+    padding: 20px;
+  }
+  
+  .profile-banner {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .profile-details {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .profile-details h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  .profile-details p {
+    margin: 10px 0;
+  }
+  
+  .profile-details a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .profile-details a:hover {
+    text-decoration: underline;
+  }
+  
