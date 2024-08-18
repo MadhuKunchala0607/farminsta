@@ -1,59 +1,172 @@
 [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john.doe@example.com",
-      "description": "Creative content creator specializing in video production.",
-      "languages": ["English", "Hindi"],
-      "education": "BA in Media",
-      "specialization": "Video Production",
-      "socialMedia": {
-        "twitter": "https://twitter.com/johndoe",
-        "instagram": "https://instagram.com/johndoe"
-      },
-      "image": "/images/video.jpg"
+  {
+    "id": 1,
+    "name": "angle akka",
+    "email": "john.doe@example.com",
+    "description": "Creative content creator specializing in video production.",
+    "languages": ["English", "Hindi"],
+    "education": "BA in Media",
+    "specialization": "Video Production",
+    "socialMedia": {
+      "twitter": "https://twitter.com/johndoe",
+      "instagram": "https://instagram.com/johndoe"
     },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com",
-      "description": "Expert in digital marketing and social media content.",
-      "languages": ["English", "Spanish"],
-      "education": "MA in Marketing",
-      "specialization": "Digital Marketing",
-      "socialMedia": {
-        "twitter": "https://twitter.com/janesmith",
-        "instagram": "https://instagram.com/janesmith"
-      },
-      "image": "/images/digital (1).jpg"
+    "image": "/images/video.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mohan",
+    "email": "jane.smith@example.com",
+    "description": "Expert in digital marketing and social media content.",
+    "languages": ["English", "Spanish"],
+    "education": "MA in Marketing",
+    "specialization": "Digital Marketing",
+    "socialMedia": {
+      "twitter": "https://twitter.com/janesmith",
+      "instagram": "https://instagram.com/janesmith"
     },
-    {
-      "id": 3,
-      "name": "Alice Johnson",
-      "email": "alice.johnson@example.com",
-      "description": "Professional photographer with a passion for storytelling.",
-      "languages": ["English", "French"],
-      "education": "BFA in Photography",
-      "specialization": "Photography",
-      "socialMedia": {
-        "twitter": "https://twitter.com/alicejohnson",
-        "instagram": "https://instagram.com/alicejohnson"
-      },
-      "image": "/images/photo.jpg"
+    "image": "/images/digital (1).jpg"
+  },
+  {
+    "id": 3,
+    "name": "rishika",
+    "email": "alice.johnson@example.com",
+    "description": "Professional photographer with a passion for storytelling.",
+    "languages": ["English", "French"],
+    "education": "BFA in Photography",
+    "specialization": "Photography",
+    "socialMedia": {
+      "twitter": "https://twitter.com/alicejohnson",
+      "instagram": "https://instagram.com/alicejohnson"
     },
-    {
-      "id": 4,
-      "name": "Madhu Kunchala",
-      "email": "madhu.kunchala@example.com",
-      "description": "Creative content creator specializing in video production.",
-      "languages": ["English", "Hindi"],
-      "education": "BA in Media",
-      "specialization": "Video Production",
-      "socialMedia": {
-        "twitter": "https://twitter.com/madhu",
-        "instagram": "https://instagram.com/madhu"
-      },
-      "image": "/images/video-production.jpg"
-    }
+    "image": "https://images.pexels.com/photos/243757/pexels-photo-243757.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "name": "naidu",
+    "email": "madhu.kunchala@example.com",
+    "description": "Creative content creator specializing in video production.",
+    "languages": ["English", "Hindi"],
+    "education": "BA in Media",
+    "specialization": "Video Production",
+    "socialMedia": {
+      "twitter": "https://twitter.com/madhu",
+      "instagram": "https://instagram.com/madhu"
+    },
+    "image": "https://images.pexels.com/photos/305086/pexels-photo-305086.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 5,
+    "name": "Manu",
+    "email": "robert.brown@example.com",
+    "description": "Graphic designer with expertise in branding and visual identity.",
+    "languages": ["English", "German"],
+    "education": "BFA in Graphic Design",
+    "specialization": "Branding",
+    "socialMedia": {
+      "twitter": "https://twitter.com/robertbrown",
+      "instagram": "https://instagram.com/manu"
+    },
+    "image": "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 6,
+    "name": "priya",
+    "email": "emily.white@example.com",
+    "description": "Content writer and editor with a focus on SEO and web content.",
+    "languages": ["English", "Italian"],
+    "education": "MA in English Literature",
+    "specialization": "SEO Content Writing",
+    "socialMedia": {
+      "twitter": "https://twitter.com/emilywhite",
+      "instagram": "https://instagram.com/emilywhite"
+    },
+    "image": "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 7,
+    "name": "hari",
+    "email": "david.green@example.com",
+    "description": "Motion graphics artist skilled in 2D and 3D animation.",
+    "languages": ["English", "Japanese"],
+    "education": "BSc in Animation",
+    "specialization": "Motion Graphics",
+    "socialMedia": {
+      "twitter": "https://twitter.com/davidgreen",
+      "instagram": "https://instagram.com/davidgreen"
+    },
+    "image": "https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 8,
+    "name": "suresh",
+    "email": "sophia.martinez@example.com",
+    "description": "Web developer with a passion for creating user-friendly websites.",
+    "languages": ["English", "Portuguese"],
+    "education": "BSc in Computer Science",
+    "specialization": "Web Development",
+    "socialMedia": {
+      "twitter": "https://twitter.com/sophiamartinez",
+      "instagram": "https://instagram.com/sophiamartinez"
+    },
+    "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 9,
+    "name": "ntr",
+    "email": "liam.wilson@example.com",
+    "description": "Audio engineer specializing in sound design and mixing.",
+    "languages": ["English", "Russian"],
+    "education": "Diploma in Audio Engineering",
+    "specialization": "Sound Design",
+    "socialMedia": {
+      "twitter": "https://twitter.com/liamwilson",
+      "instagram": "https://instagram.com/liamwilson"
+    },
+    "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 10,
+    "name": "Prabhas",
+    "email": "olivia.thompson@example.com",
+    "description": "UX/UI designer with a focus on mobile app design.",
+    "languages": ["English", "Korean"],
+    "education": "BFA in Interaction Design",
+    "specialization": "Mobile App Design",
+    "socialMedia": {
+      "twitter": "https://twitter.com/oliviathompson",
+      "instagram": "https://instagram.com/oliviathompson"
+    },
+    "image": "https://media.istockphoto.com/id/1346294889/photo/web-designing.jpg?b=1&s=612x612&w=0&k=20&c=9R2L9fQII5RBS3t0Kdq8Rrq7mosalRLAHXEUkYT_tEM="
+  },
+  {
+    "id": 11,
+    "name": "arjun",
+    "email": "ethan.davis@example.com",
+    "description": "Illustrator known for vibrant and dynamic character designs.",
+    "languages": ["English", "Chinese"],
+    "education": "BA in Illustration",
+    "specialization": "Character Design",
+    "socialMedia": {
+      "twitter": "https://twitter.com/ethandavis",
+      "instagram": "https://instagram.com/ethandavis"
+    },
+    "image": "https://media.istockphoto.com/id/1207173246/photo/the-web-designer-team-is-helping-to-design-applications-for-mobile-phones-ux-ui-designer.jpg?b=1&s=612x612&w=0&k=20&c=_JHOdpoOwFFTpcPMmgC0pDIiL9VjhR-auesogjktj6M="
+  },
+  {
+    "id": 12,
+    "name": "ramesh",
+    "email": "ava.patel@example.com",
+    "description": "Creative director with a knack for innovative advertising campaigns.",
+    "languages": ["English", "Hindi"],
+    "education": "MBA in Marketing",
+    "specialization": "Creative Direction",
+    "socialMedia": {
+      "twitter": "https://twitter.com/avapatel",
+      "instagram": "https://instagram.com/avapatel"
+    },
+    "image": "https://media.istockphoto.com/id/1201166697/photo/web-design-concept-on-desktop-3d-rendering.jpg?b=1&s=612x612&w=0&k=20&c=roJhOVENfay1WaUpMtSxrH4iNIIfdV_0Ul0PnvGRDGQ="
+  }
+  
 ]
-    
+  
